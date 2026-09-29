@@ -1,12 +1,12 @@
 Changes — 4 libraries, 4 changes
 
 openspec/ (root)
-  publish-index       ✓ Complete    2m ago
-  migrate-catalog     2/7 tasks     2m ago
+  publish-index       ✓ Complete    33m ago
+  migrate-catalog     2/7 tasks     33m ago
 
 batch-worker/openspec/
-  reduce-verification-cost     0/27 tasks    2m ago
-  verify-report-quality        0/25 tasks    2m ago
+  reduce-verification-cost     0/27 tasks    33m ago
+  verify-report-quality        0/25 tasks    33m ago
 
 help-center/openspec/
   No active changes found.

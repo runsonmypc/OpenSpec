@@ -1,0 +1,15 @@
+[1mChanges[22m [2m— 4 libraries, 4 changes[22m
+
+[1m[36mopenspec/[39m[22m[2m (root)[22m
+  publish-index       [32m✓ Complete  [39m  [2m33m ago[22m
+  migrate-catalog     [33m2/7 tasks   [39m  [2m33m ago[22m
+
+[1m[36mbatch-worker/openspec/[39m[22m
+  reduce-verification-cost     [33m0/27 tasks  [39m  [2m33m ago[22m
+  verify-report-quality        [33m0/25 tasks  [39m  [2m33m ago[22m
+
+[1m[36mhelp-center/openspec/[39m[22m
+[2m  No active changes found.[22m
+
+[1m[36mweb-client/openspec/[39m[22m
+[2m  No active changes found.[22m

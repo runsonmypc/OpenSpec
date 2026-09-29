@@ -1,0 +1,14 @@
+[1mSpecs[22m [2m— 4 libraries, 4 specs[22m
+
+[1m[36mopenspec/[39m[22m[2m (root)[22m
+  catalog     [34mrequirements 1[39m
+  search      [34mrequirements 1[39m
+
+[1m[36mbatch-worker/openspec/[39m[22m
+  report-verification     [34mrequirements 1[39m
+
+[1m[36mhelp-center/openspec/[39m[22m
+[2m  No specs found.[22m
+
+[1m[36mweb-client/openspec/[39m[22m
+  navigation     [34mrequirements 1[39m
