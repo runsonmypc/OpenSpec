@@ -1,0 +1,14 @@
+Specs — 4 libraries, 4 specs
+
+openspec/ (root)
+  catalog     requirements 1
+  search      requirements 1
+
+batch-worker/openspec/
+  report-verification     requirements 1
+
+help-center/openspec/
+  No specs found.
+
+web-client/openspec/
+  navigation     requirements 1
